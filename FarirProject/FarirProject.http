@@ -1,6 +1,6 @@
 @FarirProject_HostAddress = http://localhost:5080
 
-GET {{FarirProject_HostAddress}}/weatherforecast/
+GET {{FarirProject_HostAddress}}//
 Accept: application/json
 
 ###
